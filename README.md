@@ -16,4 +16,4 @@ https://app.netlify.com/teams/andymagwayer/overview
 
 please follow to my github:
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Treads](https://github.com/AndyMagwayer/Threads/blob/main/Threads-app-.jpg)
