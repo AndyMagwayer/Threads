@@ -1,5 +1,10 @@
 function Bottombar() {
-    return <h1>Bottombar</h1>
+    return (
+        <section className="bottombar">
+            
+
+        </section>
+    )
 }
 
 export default Bottombar ;
