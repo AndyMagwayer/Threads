@@ -17,3 +17,5 @@ https://app.netlify.com/teams/andymagwayer/overview
 please follow to my github:
 
 ![Treads](https://github.com/AndyMagwayer/Threads/blob/main/Threads-app-.jpg)
+
+# About: 
